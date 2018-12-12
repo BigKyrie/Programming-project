@@ -167,7 +167,7 @@ void adapt(Node *head)
 		printf("%d nodes have been removed at this stage\n\n", move_change);
 		if (add_change == 0 && move_change == 0)
 		{
-			printf("Here are no nodes change at this stage\n");
+			printf("Here are no nodes changes at this stage\n");
 			break;
 		}
 
